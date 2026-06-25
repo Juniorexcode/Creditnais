@@ -13,13 +13,13 @@ Creditnais is a modern, premium financial landing page designed to showcase an i
 
 ### 1. Hero Section
 Experience the initial landing with our primary value proposition and a perfectly synchronized entrance animation.
-![Hero Section](<img width="2559" height="1351" alt="image" src="https://github.com/user-attachments/assets/7bcc62e6-57c5-4598-8f1c-357fbb5de029" />
-)
+<img width="2559" height="1351" alt="image" src="https://github.com/user-attachments/assets/7bcc62e6-57c5-4598-8f1c-357fbb5de029" />
+
 
 ### 2. Savings Section
 Watch as the card and phone elegantly transition while the content explains our 100 points-per-dollar reward system.
-![Savings Section](<img width="2558" height="1242" alt="image" src="https://github.com/user-attachments/assets/f845cd59-b6f8-47ad-a681-7582142fc2c8" />
-)
+<img width="2558" height="1242" alt="image" src="https://github.com/user-attachments/assets/f845cd59-b6f8-47ad-a681-7582142fc2c8" />
+
 
 ### 3. Chances & Waitlist
 See the sophisticated diagonal bands frame the final sections, leading up to the Waitlist call-to-action.
