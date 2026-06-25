@@ -23,8 +23,8 @@ Watch as the card and phone elegantly transition while the content explains our 
 
 ### 3. Chances & Waitlist
 See the sophisticated diagonal bands frame the final sections, leading up to the Waitlist call-to-action.
-![Chances and Waitlist](<img width="2542" height="1309" alt="image" src="https://github.com/user-attachments/assets/a3e3ec5a-e75f-4581-9c10-7cbd1ee2f4bb" />
-)
+<img width="2542" height="1309" alt="image" src="https://github.com/user-attachments/assets/a3e3ec5a-e75f-4581-9c10-7cbd1ee2f4bb" />
+
 
 *(Note: Please place the screenshot files in `public/screenshots/` as `hero.png`, `savings.png`, and `chances.png` to display them here!)*
 
